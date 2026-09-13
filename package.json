@@ -1,0 +1,10 @@
+{
+  "name": "hashpanel",
+  "version": "1.0.0",
+  "description": "Browser-based local hashing utility using Web Crypto. School Purpose Only.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
